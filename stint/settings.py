@@ -25,7 +25,7 @@ SECRET_KEY = '8!dd#z7d_@%qlh(m^t7tvmhx%*_n%!3uvsssk-87qgm*8!w4hj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['stint01.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','stint01.herokuapp.com']
 
 
 # Application definition
